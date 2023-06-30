@@ -1,4 +1,4 @@
-hexlet-git/**/*.class
+*.class
 OpenSSH_8.1p1
 debug1:
 pass.txt
